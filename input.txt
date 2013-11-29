@@ -1,0 +1,8 @@
+Spies 2
+Resistance 4
+Vincent, Varun, Jonathan, Raymond, Maruchi, Emily
+
+0: Vincent, Varun
+1: Vincent, Jonathan, Emily
+0: Vincent, Varun, Jonathan, Emily
+1: Vincent, Emily, Maruchi

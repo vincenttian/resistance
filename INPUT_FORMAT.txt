@@ -1,0 +1,8 @@
+Spies NUM_SPIES
+Resistance NUM_RESISTANCE
+Comma separated list of player names
+% For each mission
+NUM_FAILS: Comma separated list of players on mission
+% For each Lady of the Lake round
+L {pass/fail}: Comma separated list of two players
+
