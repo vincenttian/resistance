@@ -1,0 +1,4 @@
+ResistanceSolver
+================
+
+Solves Resistance.
