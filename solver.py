@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 from constraint import *
-import itertools
 import colors
 
 class Round:
