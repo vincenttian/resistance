@@ -1,4 +1,4 @@
 ResistanceSolver
 ================
 
-Solves Resistance.
+Resistance statistics and beginning commands!

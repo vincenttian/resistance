@@ -142,6 +142,6 @@ if __name__ == '__main__':
 						type=file,
 						required=True,
 						help="input file")
-	args = parser.parse_args()
+	args = parser.parse_args()	
 	solver = Solver(Parser(args.inputfile).get_args())
 
